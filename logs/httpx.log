@@ -1,0 +1,21 @@
+[2026-04-03 20:41:49] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 0s
+[2026-04-03 20:41:51] [INFO] Downloaded https://picsum.photos/200 to C:\xampp\htdocs/downloads/test.jpg
+[2026-04-03 20:41:51] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 9.5367431640625E-7s
+[2026-04-03 20:41:52] [INFO] Request to https://jsonplaceholder.typicode.com/posts [POST] returned 201 in 0s
+[2026-04-03 20:41:52] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PUT] returned 200 in 0s
+[2026-04-03 20:41:53] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PATCH] returned 200 in 0s
+[2026-04-03 20:41:54] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [DELETE] returned 200 in 9.5367431640625E-7s
+[2026-04-03 20:43:20] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 1.1920928955078E-6s
+[2026-04-03 20:43:21] [INFO] Downloaded https://picsum.photos/200 to C:\xampp\htdocs/downloads/test.jpg
+[2026-04-03 20:43:21] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 0s
+[2026-04-03 20:43:22] [INFO] Request to https://jsonplaceholder.typicode.com/posts [POST] returned 201 in 1.1920928955078E-6s
+[2026-04-03 20:43:23] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PUT] returned 200 in 0s
+[2026-04-03 20:43:24] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PATCH] returned 200 in 9.5367431640625E-7s
+[2026-04-03 20:43:24] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [DELETE] returned 200 in 0s
+[2026-04-03 20:44:45] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 0s
+[2026-04-03 20:44:46] [INFO] Downloaded https://picsum.photos/200 to C:\xampp\htdocs/downloads/test.jpg
+[2026-04-03 20:44:47] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [GET] returned 200 in 0s
+[2026-04-03 20:44:47] [INFO] Request to https://jsonplaceholder.typicode.com/posts [POST] returned 201 in 0s
+[2026-04-03 20:44:48] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PUT] returned 200 in 0s
+[2026-04-03 20:44:49] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [PATCH] returned 200 in 0s
+[2026-04-03 20:44:50] [INFO] Request to https://jsonplaceholder.typicode.com/posts/1 [DELETE] returned 200 in 0s
